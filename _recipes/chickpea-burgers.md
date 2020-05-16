@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Chickpea Burgers"
+image: chickpea-burgers.jpg
 tags: meal
 
 ingredients:
