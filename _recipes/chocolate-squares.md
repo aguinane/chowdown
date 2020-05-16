@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Chocolate Squares"
 image: chocolate-squares.jpg
-tags: baking
+preptime: PT10m
+cooktime: PT20m
+tags: dessert
 
 ingredients:
 - 1 cup of flour
@@ -15,16 +17,18 @@ ingredients:
 - 2 tbsp of butter
 - 2 tbsp of cocoa
 - walnuts or choc chips (optional)
-- 1 cup of icing sugar
-- a bit of milk
-- 1 tbsp of cocoa
 
 directions:
 - Mix everything together
 - Bake for 20-30mins
-- Add icing once cool
-- Sprinkle coconut or 100s and 1000s on top
+- Add chocolate icing once cool
+- Sprinkle coconut or 100s and 1000s on top of icing
+
+components:
+- Chocolate Icing
 
 ---
 
-Guinane family recipe
+Guinane family recipe, slightly changed each generation.
+Sometimes I add walnuts if we have any from our tree and works quite well.
+Use almond milk to make a vegan verion.

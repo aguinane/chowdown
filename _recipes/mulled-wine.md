@@ -3,7 +3,7 @@
 layout: recipe
 title: "glühwein (Mulled Wine)"
 image: mulled-wine.jpg
-image-credit: https://www.popsugar.com/food/Vanilla-Mulled-Wine-Recipe-32847511
+imagecredit: https://www.popsugar.com/food/Vanilla-Mulled-Wine-Recipe-32847511
 tags: drink
 
 ingredients:
@@ -17,9 +17,10 @@ ingredients:
 
 directions:
 - combine all ingredients in large pot
-- Gently warm to low to medium heat (avoid boiling) for 20 minutes
-- Serve with ladle into mugs
+- warm to low to medium heat (avoid boiling!)
+- serve with ladle into mugs
 
 ---
 
-Awesome in winter
+Awesome in winter if you are having people over.
+The fruit makes it sweet so don't buy expensive wine.

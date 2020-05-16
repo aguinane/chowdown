@@ -20,4 +20,4 @@ directions:
 
 ---
 
-The famous Grimes party punch recipe
+The famous Grimes party punch recipe from uni.

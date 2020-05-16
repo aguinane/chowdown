@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Trifle"
 image: trifle.jpg
-tags: baking
+tags: dessert
 
 ingredients:
 - 2 sponge cakes or jam rolls
@@ -18,4 +18,5 @@ directions:
 
 ---
 
-Wheatland Christmas Special
+It's not Christmas if you don't make a trifle.
+Adding fruit or alcohol is gross, keep it simple.

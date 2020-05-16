@@ -3,7 +3,7 @@
 layout: recipe
 title:  "White Choc Cheesecake"
 image: white-choc-cheesecake.jpg
-tags: baking
+tags: dessert
 
 ingredients:
 - 1 1/2 cup of biscuits
@@ -22,4 +22,4 @@ directions:
 
 ---
 
-Wheatland Christmas Special
+Another Wheatland Christmas requirement.
