@@ -3,6 +3,8 @@
 layout: recipe
 title:  "Chickpea Burgers"
 image: chickpea-burgers.jpg
+preptime: PT30m
+cooktime: PT30m
 tags: meal
 
 ingredients:

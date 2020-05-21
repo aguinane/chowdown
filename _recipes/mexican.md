@@ -9,6 +9,7 @@ ingredients:
 - 1 can of diced tomatoes
 - 1 red onion (chopped)
 - corn
+- mexican spice mix
 - garlic
 - chilli
 - mushrooms (optional)
