@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Overnight Porridge"
+image: overnight-porridge.jpg
 tags: meal
 
 ingredients:

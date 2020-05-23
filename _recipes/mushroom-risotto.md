@@ -2,18 +2,20 @@
 
 layout: recipe
 title:  "Mushroom Risotto"
+image: mushroom-risotto.jpg
 tags: meal
 
 ingredients:
-- 1 cup aborio rice
+- 1 1/2 cup aborio rice
 - veg stock
 - bit of wine
 - corn
-- red onion
+- 1/2 red onion
 - mushroom
 - rosemary
 - cheese
 - chicken/bacon (optional)
+- butter (optional)
 
 directions:
 - Fry some onion and mushrooms
