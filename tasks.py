@@ -1,5 +1,5 @@
 import os
-import re
+from PIL import Image
 from pathlib import Path
 from invoke import task
 
@@ -22,5 +22,10 @@ def remove_metadata(c):
 def resize_images(c, pre=[lowercase_jpg, remove_metadata]):
     files = list(Path("images").rglob("*.jpg"))
     for f in files:
-        cmd = f"mogrify -verbose -format jpeg -layers Dispose -resize 1024\>x1024\> -quality 75% {str(f)}"
-        c.run(cmd)
+        filesize = f.stat().st_size
+        if filesize > 300000:
+            im = Image.open(f)
+            width, height = im.size
+            if width > 2024 or height > 2024:
+                cmd = f"mogrify -verbose -resize 2024\>x2024\> {str(f)}"
+                c.run(cmd)
