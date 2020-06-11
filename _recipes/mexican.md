@@ -1,7 +1,8 @@
 ---
 
 layout: recipe
-title:  "Mexican"
+title:  "Mexican Mix"
+image: mexican-mix.jpg
 tags: meal
 
 ingredients:
@@ -10,7 +11,6 @@ ingredients:
 - 1 red onion (chopped)
 - corn
 - mexican spice mix
-- garlic
 - chilli
 - mushrooms (optional)
 
