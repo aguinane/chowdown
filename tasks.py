@@ -6,7 +6,7 @@ from invoke import task
 
 @task
 def lowercase_jpg(c):
-    files = list(Path("content").rglob("*.JPG"))
+    files = list(Path("images").rglob("*.JPG"))
     for f in files:
         old_path = str(f)
         new_path = str(f).replace(".JPG", ".jpg")
@@ -15,7 +15,7 @@ def lowercase_jpg(c):
 
 @task
 def remove_metadata(c):
-    c.run("exiftool -r -overwrite_original -P -all= content -ext jpg -ext jpeg")
+    c.run("exiftool -r -overwrite_original -P -all= images/ -ext jpg -ext jpeg")
 
 
 @task
