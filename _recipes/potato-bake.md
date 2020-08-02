@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Potato Bake"
-image: potatobake.jpg
+image: potato-bake.jpg
 tags: meal
 
 ingredients:
