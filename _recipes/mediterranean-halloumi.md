@@ -6,27 +6,27 @@ image: mediterranean-halloumi.jpg
 tags: meal
 
 ingredients:
-- 6 new potatoes, halved
-- 2 capsicums, chopped
-- 2 large carrots, chopped
-- 1 large red onion, wedges
-- 5 garlic cloves, whole
-- 2 rosemary stalks
-- 2 tbsp extra virgin olive oil
-- 1 punnet mixed cherry tomatoes
-- 1 lemon, sliced into wedges
-- pinch salt & pepper
-- 1 block halloumi, sliced
+- 1 tbspn olive oil
+- 1 onion finely chopped
+- 2 garlic cloves
+- 2 zucchini diced
+- 15 cherry tomatoes quartered 
+- 3 tbspns tomato puree
+- 1 tbspn tumeric
+- 1 tbspn cumin
+- 1 tbspn smoked paprika
+- 1 small frsh chilli finely chopped and deseeded 
+- salt and pepper 
+- 180g halloumi sliced 
+- 1 handful fresh basil chopped
 
-directions:
-- Preheat oven to 200°C.
-- In a large oiled baking tray scatter veggies and olive oil in a large roasting tray.
-- Season with salt and pepper.
-- Bake for 30 minutes, or until golden.
-- Add cherry tomatoes and lemon slices for a further 15 minutes.
-- Fry halloumi for 2-3 minutes on both sides or until golden.
-- Serve vegetables with halloumi and fresh parsley.
-
----
+Directions 
+1. Preheat oven to 220 degress 
+2. Heat oil and saute onions for 2 mins
+3. Add garlic and cook for another min
+4. Add zucchinis, tomatoes, tomato puree and spices, cover with lid and simmer for 20 mins
+5. Add water or passata if the tomatoes and zucchinis do not release enough juice to make a sauce
+6. Cover the dish with the halloumi slice, place it under the grill until halloumi slice are golden brown. 
+7. Sprinkle with fresh basil and enjoy
 
 
