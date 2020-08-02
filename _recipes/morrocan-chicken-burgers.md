@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Morrocan Chicken Burgers"
+image: morrocan-chicken-burger.jpg
 tags: meal
 
 ingredients:
