@@ -3,7 +3,6 @@
 layout: recipe
 title: "glühwein (Mulled Wine)"
 image: mulled-wine.jpg
-imagecredit: https://www.popsugar.com/food/Vanilla-Mulled-Wine-Recipe-32847511
 tags: drink
 
 ingredients:
