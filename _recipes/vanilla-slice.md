@@ -3,7 +3,6 @@
 layout: recipe
 title:  "Vanilla Slice"
 image: vanilla-slice.jpg
-imagecredit: https://queen.com.au/recipes/classic-queen-vanilla-slice/
 tags: dessert
 
 ingredients:
