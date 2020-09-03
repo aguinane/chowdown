@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Indian Shepherd's Pie"
+image: indian-shepherd's-pie.jpg
 tags: meal
 
 ingredients:
