@@ -1,6 +1,6 @@
 layout: recipe
 title:  "Mushroom ragu with Creamy Polenta"
-image: mushroomragu.jpg
+image: mushroom-ragu.jpg
 tags: meal
 
 ingredients:
