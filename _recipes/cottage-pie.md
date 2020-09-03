@@ -15,7 +15,7 @@ ingredients:
 - 1 cup water
 - 1 tsp mexican mix
 
-method:
+directions:
 - Steam sweet potato
 - Mash sweet potatoes
 - Heat oil in frying pan, cook onions for 5mins

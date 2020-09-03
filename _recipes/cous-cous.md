@@ -12,7 +12,7 @@ ingredients:
 - 1/2 cup of cous cous
 - 1 tsp margarine
 
-method:
+directions:
 - Place water in saucepan, add oil and salt and bring to a boil
 - Remove from heat
 - Stir and pour in cous cous
