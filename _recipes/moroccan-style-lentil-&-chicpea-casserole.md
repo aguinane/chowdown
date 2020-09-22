@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Moroccan Style Lentil & Chickea Casserole
-image: lentil-chicpea-casserole.jpg
+title:  "Moroccan Style Lentil & Chickpea Casserole"
+image: lentil-chickpea-casserole.jpg
 tags: meal
 
 ingredients:
@@ -16,7 +16,7 @@ ingredients:
 - 1 can of crushed or diced tomatoes
 - 1 can brown lentils
 - 1 can chickpeas
-- 1 carrot, preboiled 
+- 1 carrot, preboiled
 
 directions:
 - Heat oil in dutch oven
@@ -25,6 +25,6 @@ directions:
 - Add broth, carrot, tomatoes, lentils and chicpeas
 - Simmer for 10-15 mins until some of the water has boiled off
 - Serve with cous cous or quinoa
-- Granish with yoghurt, lemon and coriander leaves 
+- Granish with yoghurt, lemon and coriander leaves
 
- ---
+---
