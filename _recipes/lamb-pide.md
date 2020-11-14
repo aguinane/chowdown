@@ -38,4 +38,4 @@ directions:
 
 ---
 
-Serves 4 people generously. Mince can also be served with cous cous or rice
+Serves 4 people. Mince can also be served with cous cous or rice
