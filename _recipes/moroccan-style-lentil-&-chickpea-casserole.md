@@ -27,4 +27,6 @@ directions:
 - Serve with cous cous or quinoa
 - Granish with yoghurt, lemon and coriander leaves
 
+components:
+- Cous Cous
 ---
