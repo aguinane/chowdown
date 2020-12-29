@@ -6,19 +6,19 @@ image: white-choc-cheesecake.jpg
 tags: dessert
 
 ingredients:
-- 1 1/4 cup of biscuits
+- 200g of milk arrowroot biscuits
 - 75g melted butter
-- 500g cream cheese
-- 3/4 cup of castor sugar
-- 2 tsp gelatine (dissolved in 1/4 cup of boiling water)
-- 200g white chocolate chips
-- dark/milk chocolate for on top
 - 1 cup of lightly whipped cream
+- 3/4 cup of castor sugar
+- 500g cream cheese
+- 200g white chocolate chips (melted)
+- 2 tsp gelatine (dissolved in 1/4 cup of boiling water)
+- a few rows of dark/milk chocolate
 
 directions:
-- Make base out of biscuits and butter
+- Make base out of biscuits and melted butter
 - Mix together, adding gelatin last
-- Add grated chocolate on top
+- Grate chocolate on top
 
 ---
 

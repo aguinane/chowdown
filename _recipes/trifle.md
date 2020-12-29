@@ -8,7 +8,7 @@ tags: dessert
 ingredients:
 - 2 sponge cakes or jam rolls
 - 3 plates of jelly
-- custard
+- custard (8 cups of milk)
 
 directions:
 - Make the jelly and set overnight
