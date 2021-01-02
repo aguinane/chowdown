@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Fruit Scones"
+picture: fruitscones.jpg
 tags: dessert
 
 ingredients:
