@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chocolate Cake"
-image: chocolate-cake.jpg
+image: chocolatecake.jpg
 tags: dessert
 
 ingredients:
