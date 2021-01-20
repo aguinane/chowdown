@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Vege Thai Curry"
+image: vege-thai-curry.jpg
 tags: meal
 
 ingredients:
