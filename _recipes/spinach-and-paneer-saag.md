@@ -33,5 +33,6 @@ directions:
 - Add paneer and cocnut cream cook for another 2-3 mins
 - Serve with rice and lemon juice
 
-Serve this dish with samosas and naan. 
 ---
+
+Serve this dish with samosas and naan. 
