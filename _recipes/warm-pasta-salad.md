@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Warm-Pasta-Salad.md"
-image: war-pasta-salad.jpg
+image: warm-pasta-salad.jpg
 tags: meal
 
 ingredients:
