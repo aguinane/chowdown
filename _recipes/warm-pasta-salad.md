@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Warm-Pasta-Salad"
+title:  "Warm Pasta Salad"
 image: warm-pasta-salad.jpg
 tags: meal
 
