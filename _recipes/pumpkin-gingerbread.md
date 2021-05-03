@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Pumpkin-Gingrebread.md"
+title:  "Pumpkin Gingerbread"
 image: pumpkin-gingerbread.jpg
 tags: meal
 
