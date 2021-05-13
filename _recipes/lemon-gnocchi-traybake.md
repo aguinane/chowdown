@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Lemon Gnocchi Traybake"
+title: "Lemon Gnocchi Traybake"
 image: lemon-gnocchi-traybake.jpg
 tags: meal
 
@@ -25,7 +25,6 @@ directions:
 - Bake in oven for 30 mins
 - Serve with fresh avocado and cheese
 
-This recipe comes courtsey of Carla Voss
-
+This recipe comes courtsey of Carla
 
 ---
