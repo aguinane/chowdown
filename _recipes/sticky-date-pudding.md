@@ -24,6 +24,7 @@ directions:
 - Add flour then sprinkle baking soda across the surface.
 - Add dates, mix quickly until dates are well incorporated into the batter.
 - Pour into muffin tray
+- Bake for 12-15mins
 
 ---
 
