@@ -12,7 +12,6 @@ ingredients:
 - olive oil
 - basil or parsley leaves
 - salt and pepper
-- 
 
 directions:
 - Preheat oven to 220 degrees
@@ -25,6 +24,8 @@ directions:
 - Bake in oven for 30 mins
 - Serve with fresh avocado and cheese
 
-This recipe comes courtsey of Carla
 
 ---
+
+This recipe comes courtsey of Carla
+

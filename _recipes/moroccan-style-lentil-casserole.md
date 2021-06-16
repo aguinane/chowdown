@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Moroccan style lential casserole"
+title:  "Moroccan-Style Lentil Casserole"
 image: lentil-casserole.jpg
 tags: meal
 
