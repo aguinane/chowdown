@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pad Thai"
+image: pad-thai.jpg
 tags: meal
 
 ingredients:
