@@ -2,6 +2,9 @@
 layout: recipe
 title: Choc Zucchini Slice
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*2 cups* flour"
 - "*1/4 cup* cocoa powder"

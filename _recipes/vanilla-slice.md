@@ -4,6 +4,9 @@ title: Vanilla Slice
 image: vanilla-slice.jpg
 description: Basically just custard with pastry and icing on top
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*2 sheets* puff pasty"
 - "*2/3 cup* caster sugar"

@@ -3,6 +3,9 @@ layout: recipe
 title: Flatbread
 source: https://www.recipetineats.com/easy-soft-flatbread-yeast/
  
+tags:
+- "components"
+ 
 ingredients:
 - "*3 1/2 tbsp* butter"
 - "*3/4 cup* milk"

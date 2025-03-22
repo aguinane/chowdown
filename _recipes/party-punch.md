@@ -4,6 +4,9 @@ title: Party Punch
 image: party-punch.jpg
 description: The famous Grimes party punch recipe from uni.
  
+tags:
+- "drinks"
+ 
 ingredients:
 - "*3x1L* Tropical Punch Fruit Juice"
 - "*3x1L* Golden Pash Fruit Juice"

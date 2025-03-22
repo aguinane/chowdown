@@ -3,6 +3,9 @@ layout: recipe
 title: Chocolate Cake
 image: chocolate-cake.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*2 cups* self-raising flour"
 - "*1 cup* sugar"

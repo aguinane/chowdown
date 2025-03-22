@@ -3,6 +3,9 @@ layout: recipe
 title: Roast Lamb with Olive Tapenade
 image: roast-lamb-with-olive-tapenade.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*2kg* lamb leg"
 - "*1/3 cup* maple syrup"

@@ -4,6 +4,9 @@ title: Naan Bread
 image: naan-bread.jpg
 description: Not too hard to make to go with Indian
  
+tags:
+- "sides"
+ 
 ingredients:
 - "*2 cup* self-raising flour"
 - "*1/3 cup* coconut"

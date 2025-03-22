@@ -4,6 +4,9 @@ title: Pikelets
 image: pikelets.jpg
 size: 10 pikelets
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1* egg"
 - "*1 tbsp* caster sugar"

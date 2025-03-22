@@ -3,6 +3,9 @@ layout: recipe
 title: Mushroom Ragu with Creamy Polenta
 image: mushroom-ragu-with-creamy-polenta.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*2tbs* olive oil"
 - "*1* onion"

@@ -4,6 +4,9 @@ title: Finger Buns
 size: 16 buns
 source: https://www.womensweeklyfood.com.au/recipe/baking/finger-buns-15332/
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*4 teaspoons* yeast"
 - "*1/4 cup* sugar"

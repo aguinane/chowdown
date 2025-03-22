@@ -3,6 +3,9 @@ layout: recipe
 title: Mushroom Risotto
 image: mushroom-risotto.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1/2* red onion"
 - "*some* mushroom"

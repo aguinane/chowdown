@@ -3,6 +3,9 @@ layout: recipe
 title: Spinach and Paneer Saag
 image: spinach-and-paneer-saag.jpg
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*some* oil"
 - "*2 tsp* tumeric"

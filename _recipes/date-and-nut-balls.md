@@ -2,6 +2,9 @@
 layout: recipe
 title: Date and Nut Balls
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1 cup* pitted dates"
 - "*1 cup* nuts"

@@ -3,6 +3,9 @@ layout: recipe
 title: Sausage Rolls
 image: sausage-rolls.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*2 slices* toast"
 - "*500g* lamb mince"

@@ -2,6 +2,9 @@
 layout: recipe
 title: Mac and Cheese
  
+tags:
+- "sides"
+ 
 ingredients:
 - "*1 head* cauliflower"
 - "*1/2 head* broccili"

@@ -3,6 +3,9 @@ layout: recipe
 title: Chicken & Veg Soup
 image: chicken-veg-soup.jpg
  
+tags:
+- "soups"
+ 
 ingredients:
 - "*50g* butter"
 - "*some* olive oil"

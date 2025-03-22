@@ -3,6 +3,9 @@ layout: recipe
 title: Oat and Seed Biscuits
 image: oat-and-seed-biscuits.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*100g* margarine"
 - "*100g* brown sugar"

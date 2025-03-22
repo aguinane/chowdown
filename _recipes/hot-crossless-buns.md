@@ -5,6 +5,9 @@ image: hot-crossless-buns.jpg
 size: 12 buns
 source: https://www.cookingforengineers.com/recipe/215/Hot-Cross-Buns-Delia-Smiths
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*3 cups* plain flour"
 - "*1/3 cup* sugar"

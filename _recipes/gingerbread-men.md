@@ -3,6 +3,9 @@ layout: recipe
 title: Gingerbread Men
 size: 12 gingerbread men
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*125 g* butter"
 - "*1/2 cup* sugar"

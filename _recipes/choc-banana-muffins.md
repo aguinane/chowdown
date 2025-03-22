@@ -2,6 +2,9 @@
 layout: recipe
 title: Choc Banana Muffins
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1.5 cup* plain flour"
 - "*1 tsp* baking powder"

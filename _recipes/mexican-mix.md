@@ -4,6 +4,9 @@ title: Mexican Mix
 image: mexican-mix.jpg
 description: This is our go to mexican mix. Make into burritos or nachos.
  
+tags:
+- "components"
+ 
 ingredients:
 - "*1* red onion"
 - "*some* chilli"

@@ -3,6 +3,9 @@ layout: recipe
 title: Morrocan Chicken Burgers
 image: morrocan-chicken-burgers.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* chicken thighs"
 - "*some* harissa"

@@ -3,6 +3,9 @@ layout: recipe
 title: Caponata Pasta
 image: caponata-pasta.jpg
  
+tags:
+- "dinner"
+ 
 ingredients:
 - "*1* eggplant"
 - "*some* olive oil"

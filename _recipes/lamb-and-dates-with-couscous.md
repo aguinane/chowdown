@@ -2,6 +2,9 @@
 layout: recipe
 title: Lamb and Dates with Couscous
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*500 g* lamb"
 - "*2 cups* chicken stock"

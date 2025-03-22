@@ -4,6 +4,9 @@ title: Pavlova
 image: pavlova.jpg
 source: https://tastesbetterfromscratch.com/bread-recipe/
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*4* eggs"
 - "*1 1/2 cups* sugar"

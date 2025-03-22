@@ -3,6 +3,9 @@ layout: recipe
 title: Instant Pot Basic Risotto
 image: instant-pot-basic-risotto.jpg
  
+tags:
+- "dinner"
+ 
 ingredients:
 - "*some* roast vegetables"
 - "*some* olive oil"

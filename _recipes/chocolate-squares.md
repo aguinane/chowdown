@@ -4,6 +4,9 @@ title: Chocolate Squares
 image: chocolate-squares.jpg
 description: Guinane family recipe, slightly changed each generation.
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1 cup* flour"
 - "*1 cup* sugar"

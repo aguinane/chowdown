@@ -4,6 +4,9 @@ title: Pumpkin Soup
 image: pumpkin-soup.jpg
 description: Tasty entree and great for babies.
  
+tags:
+- "soups"
+ 
 ingredients:
 - "*2* tomatoes"
 - "*1 large* onion"

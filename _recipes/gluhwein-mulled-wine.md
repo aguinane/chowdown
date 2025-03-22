@@ -4,6 +4,9 @@ title: glühwein (Mulled Wine)
 image: gluhwein-mulled-wine.jpg
 description: Awesome in winter if you are having people over. The fruit makes it sweet so don't buy expensive wine.
  
+tags:
+- "drinks"
+ 
 ingredients:
 - "*3 bottles* cheap red wine"
 - "*2 cups* water"

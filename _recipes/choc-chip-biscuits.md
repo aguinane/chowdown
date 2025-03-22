@@ -2,6 +2,9 @@
 layout: recipe
 title: Choc Chip Biscuits
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*185 g* butter"
 - "*2/3 cup* sugar"

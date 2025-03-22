@@ -3,6 +3,9 @@ layout: recipe
 title: Golden Wheat Slice
 image: golden-wheat-slice.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*4* weet-bix"
 - "*1 cup* SR flour"

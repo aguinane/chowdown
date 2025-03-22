@@ -3,6 +3,9 @@ layout: recipe
 title: Teriyaki Eggplant Stir-Fry
 image: teriyaki-eggplant-stir-fry.jpg
  
+tags:
+- "dinner"
+ 
 ingredients:
 - "*2 tbs* olive oil"
 - "*4* lightly beaten eggs"

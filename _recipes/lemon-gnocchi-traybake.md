@@ -3,6 +3,9 @@ layout: recipe
 title: Lemon Gnocchi Traybake
 image: lemon-gnocchi-traybake.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1 bunch* brocclini"
 - "*10-15* brussel sprouts"

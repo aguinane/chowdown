@@ -3,6 +3,9 @@ layout: recipe
 title: Vege Korma
 image: vege-korma.jpg
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*some* cashews"
 - "*some* water"

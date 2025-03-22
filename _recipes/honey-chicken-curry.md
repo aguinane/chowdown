@@ -3,6 +3,9 @@ layout: recipe
 title: Honey Chicken Curry
 image: honey-chicken-curry.jpg
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*1* chicken breasts"
 - "*1 cup* melted butter"

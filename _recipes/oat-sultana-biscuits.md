@@ -3,6 +3,9 @@ layout: recipe
 title: Oat & Sultana Biscuits
 image: oat-sultana-biscuits.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1/2 cup* margarine"
 - "*1/2 cup* brown sugar"

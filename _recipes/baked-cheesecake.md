@@ -3,6 +3,9 @@ layout: recipe
 title: Baked Cheesecake
 image: baked-cheesecake.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1 packet* milk arrowroot biscuits"
 - "*150g* margarine"

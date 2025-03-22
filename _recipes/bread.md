@@ -5,6 +5,9 @@ image: bread.jpg
 size: 2 loaves
 source: https://tastesbetterfromscratch.com/bread-recipe/
  
+tags:
+- "components"
+ 
 ingredients:
 - "*1 7g packet* yeast"
 - "*2 cup* warm water"

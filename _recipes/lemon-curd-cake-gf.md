@@ -3,6 +3,9 @@ layout: recipe
 title: Lemon Curd Cake GF
 image: lemon-curd-cake-gf.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*150g* butter"
 - "*3/4 cup* caster sugar"

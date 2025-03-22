@@ -3,6 +3,9 @@ layout: recipe
 title: Warm Pasta Salad
 image: warm-pasta-salad.jpg
  
+tags:
+- "salads"
+ 
 ingredients:
 - "*500g* pasta"
 - "*3 cloves* garlic"

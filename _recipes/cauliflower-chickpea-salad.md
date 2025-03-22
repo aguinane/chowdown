@@ -3,6 +3,9 @@ layout: recipe
 title: Cauliflower Chickpea Salad
 image: cauliflower-chickpea-salad.jpg
  
+tags:
+- "salads"
+ 
 ingredients:
 - "*2 cloves* garlic"
 - "*1/2 cup* greek yoghurt"

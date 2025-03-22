@@ -4,6 +4,9 @@ title: White Choc Cheesecake
 image: white-choc-cheesecake.jpg
 description: Wheatland Christmas favourite
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*200g* milk arrowroot biscuits"
 - "*75g* melted butter"

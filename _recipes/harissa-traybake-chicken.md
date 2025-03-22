@@ -3,6 +3,9 @@ layout: recipe
 title: Harissa Traybake Chicken
 image: harissa-traybake-chicken.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*2* red onion"
 - "*1* red capscium"

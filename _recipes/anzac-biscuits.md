@@ -4,6 +4,9 @@ title: ANZAC Biscuits
 image: anzac-biscuits.jpg
 source: https://www.taste.com.au/recipes/traditional-anzac-biscuits-2/5229a179-7755-46ab-925a-fd55081833d8
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*1 cup* plain flour"
 - "*1 cup* coconut"

@@ -2,6 +2,9 @@
 layout: recipe
 title: Ice Cream Loaf
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*395g can* condensed milk"
 - "*600ml* cream"

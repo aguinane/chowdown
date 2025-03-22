@@ -3,6 +3,9 @@ layout: recipe
 title: Pad Thai
 image: pad-thai.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* rice-stick noodles"
 - "*2 tbsp* oil"

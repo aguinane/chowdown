@@ -4,6 +4,9 @@ title: Trifle
 image: trifle.jpg
 description: It's not Christmas if you don't make a trifle.
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*2 plates* jelly"
 - "*1 small* sponge cake"

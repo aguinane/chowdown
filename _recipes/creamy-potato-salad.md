@@ -3,6 +3,9 @@ layout: recipe
 title: Creamy Potato Salad
 image: creamy-potato-salad.jpg
  
+tags:
+- "salads"
+ 
 ingredients:
 - "*1.5kg* potatoes"
 - "*1 cup* mayonnaise"

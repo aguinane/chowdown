@@ -2,6 +2,9 @@
 layout: recipe
 title: Slow Cooked Moroccan Lamb Casserole
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* Oil"
 - "*some* Lamb shoulder"

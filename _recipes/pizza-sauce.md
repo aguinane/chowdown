@@ -4,6 +4,9 @@ title: Pizza Sauce
 image: pizza-sauce.jpg
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
  
+tags:
+- "components"
+ 
 ingredients:
 - "*some* tomatoes"
 - "*some* brown sugar"

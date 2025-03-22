@@ -2,6 +2,9 @@
 layout: recipe
 title: Instant Pot Roast Chicken
  
+tags:
+- "dinner"
+ 
 ingredients:
 - "*whole* chicken"
 - "*some* seasoning"

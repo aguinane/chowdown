@@ -3,6 +3,9 @@ layout: recipe
 title: Passata
 image: passata.jpg
  
+tags:
+- "components"
+ 
 ingredients:
 - "*some* olive oil"
 - "*some* cherry tomatoes"

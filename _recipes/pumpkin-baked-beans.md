@@ -2,6 +2,9 @@
 layout: recipe
 title: Pumpkin Baked Beans
  
+tags:
+- "sides"
+ 
 ingredients:
 - "*1/2* butternut pumpkin"
 - "*some* olive oil"

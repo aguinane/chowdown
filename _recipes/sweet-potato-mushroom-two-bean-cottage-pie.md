@@ -2,6 +2,9 @@
 layout: recipe
 title: Sweet Potato Mushroom & Two Bean Cottage Pie
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*700g* sweet potatoes"
 - "*1 tbs* oil"

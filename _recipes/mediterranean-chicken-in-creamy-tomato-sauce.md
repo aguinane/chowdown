@@ -3,6 +3,9 @@ layout: recipe
 title: Mediterranean Chicken in Creamy Tomato Sauce
 image: mediterranean-chicken-in-creamy-tomato-sauce.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*4* chicken breasts"
 - "*2* eggs"

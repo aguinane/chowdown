@@ -3,6 +3,9 @@ layout: recipe
 title: Sweet Potato Salad
 image: sweet-potato-salad.jpg
  
+tags:
+- "salads"
+ 
 ingredients:
 - "*1 large* sweet potato"
 - "*1 bag* spinach and rockets leaves"

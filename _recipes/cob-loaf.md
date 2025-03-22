@@ -3,6 +3,9 @@ layout: recipe
 title: Cob Loaf
 image: cob-loaf.jpg
  
+tags:
+- "sides"
+ 
 ingredients:
 - "*500g* cob loaf"
 - "*1 tbl* olive oil"

@@ -3,6 +3,9 @@ layout: recipe
 title: Avocado Muffins
 image: avocado-muffins.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*3 cups* plain flour"
 - "*1 tbsp* baking powder"

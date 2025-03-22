@@ -3,6 +3,9 @@ layout: recipe
 title: Choc Self Saucing Pudding
 image: choc-self-saucing-pudding.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1 cup* self-raising flour"
 - "*1/3 cup* sugar"

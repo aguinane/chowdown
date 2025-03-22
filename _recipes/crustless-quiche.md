@@ -2,6 +2,9 @@
 layout: recipe
 title: Crustless Quiche
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*3* eggs"
 - "*1/2 cup* margarine"

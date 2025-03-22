@@ -3,6 +3,9 @@ layout: recipe
 title: Overnight Porridge
 image: overnight-porridge.jpg
  
+tags:
+- "breakfasts"
+ 
 ingredients:
 - "*1/2 cup* oats"
 - "*1 tbsp* chia seeds"

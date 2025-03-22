@@ -2,6 +2,9 @@
 layout: recipe
 title: Sushi Rolls
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*500 g* sushi rice"
 - "*some* chicken tenders"

@@ -3,6 +3,9 @@ layout: recipe
 title: Indian Shepherd's Pie
 image: indian-shepherd-s-pie.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*500g* lamb mince"
 - "*2* onions"

@@ -3,6 +3,9 @@ layout: recipe
 title: Fruit Scones
 image: fruit-scones.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*150g* dried fruit"
 - "*some* orange juice"

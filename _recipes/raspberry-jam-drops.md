@@ -3,6 +3,9 @@ layout: recipe
 title: Raspberry Jam drops
 image: raspberry-jam-drops.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*175g* margarine"
 - "*1 tsp* vanilla extract"

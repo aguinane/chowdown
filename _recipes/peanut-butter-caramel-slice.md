@@ -3,6 +3,9 @@ layout: recipe
 title: Peanut Butter Caramel Slice
 image: peanut-butter-caramel-slice.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*250g* Marie biscuits"
 - "*170g* butter"

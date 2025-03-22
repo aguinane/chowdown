@@ -4,6 +4,9 @@ title: Chickpea Burgers
 image: chickpea-burgers.jpg
 description: Awesome veggie patties to add to burgers.
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1 can* chickpeas"
 - "*2* zuchini"

@@ -2,6 +2,9 @@
 layout: recipe
 title: Spinach and Lentil Stew
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* olive oil"
 - "*1* onion"

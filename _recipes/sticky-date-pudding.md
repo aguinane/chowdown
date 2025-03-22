@@ -3,6 +3,9 @@ layout: recipe
 title: Sticky Date Pudding
 image: sticky-date-pudding.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*280g* pitted dates"
 - "*1 tsp* bi carb soda"

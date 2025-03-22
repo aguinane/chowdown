@@ -2,6 +2,9 @@
 layout: recipe
 title: Vege Tikka Masala
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*some* sweet potato"
 - "*some* onion"

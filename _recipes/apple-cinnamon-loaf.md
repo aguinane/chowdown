@@ -3,6 +3,9 @@ layout: recipe
 title: Apple Cinnamon Loaf
 image: apple-cinnamon-loaf.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1tsp* ground cinnamon"
 - "*1/3 cup* brown sugar"

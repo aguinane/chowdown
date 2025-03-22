@@ -4,6 +4,9 @@ title: Iron Balls
 image: iron-balls.jpg
 source: https://www.newidea.com.au/4-ingredient-weet-bix-balls
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*8* Weet-Bix"
 - "*1 cup* coconut"

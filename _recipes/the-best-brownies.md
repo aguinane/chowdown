@@ -4,6 +4,9 @@ title: The Best Brownies
 image: the-best-brownies.jpg
 description: These are extremely unhealthy but super tasty
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*125g* butter"
 - "*200g* brown sugar"

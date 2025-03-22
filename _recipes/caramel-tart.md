@@ -4,6 +4,9 @@ title: Caramel Tart
 image: caramel-tart.jpg
 description: This recipe comes from Lauren who enjoys a good caramel tart
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1 packet* milk arrowroot biscuits"
 - "*some* margarine"

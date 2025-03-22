@@ -3,6 +3,9 @@ layout: recipe
 title: Lamb Pide
 image: lamb-pide.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* olive oil"
 - "*1* brown onion"

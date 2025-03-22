@@ -3,6 +3,9 @@ layout: recipe
 title: Toasted Cashew Nut & Cauliflower Curry
 image: toasted-cashew-nut-cauliflower-curry.jpg
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*1 head* cauliflower"
 - "*2* bay leaves"

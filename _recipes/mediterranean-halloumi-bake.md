@@ -3,6 +3,9 @@ layout: recipe
 title: Mediterranean Halloumi Bake
 image: mediterranean-halloumi-bake.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1 tbspn* olive oil"
 - "*1* onion"

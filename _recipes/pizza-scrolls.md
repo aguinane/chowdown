@@ -3,6 +3,9 @@ layout: recipe
 title: Pizza Scrolls
 image: pizza-scrolls.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*2 1/2 cups* self-raising flour"
 - "*2 tbsp* butter"

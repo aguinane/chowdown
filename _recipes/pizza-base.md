@@ -5,6 +5,9 @@ image: pizza-base.jpg
 size: 3 bases
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
  
+tags:
+- "components"
+ 
 ingredients:
 - "*3 cups* plain flour"
 - "*1 packet (7g)* yeast"

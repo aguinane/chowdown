@@ -3,6 +3,9 @@ layout: recipe
 title: Carrot Cake
 image: carrot-cake.jpg
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1 cup* walnuts "
 - "*2 cup* plain four"

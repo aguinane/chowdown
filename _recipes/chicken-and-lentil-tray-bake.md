@@ -3,6 +3,9 @@ layout: recipe
 title: Chicken and Lentil Tray Bake
 source: https://www.abc.net.au/news/2024-11-02/easy-chicken-and-lentil-tray-bake/104313206
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1 kg* chicken thighs"
 - "*2 tablespoon* paprika"

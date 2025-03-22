@@ -2,6 +2,9 @@
 layout: recipe
 title: Lentil Bolognese
  
+tags:
+- "dinner"
+ 
 ingredients:
 - "*1* minced onion"
 - "*1* diced celery stalk"

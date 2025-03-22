@@ -3,6 +3,9 @@ layout: recipe
 title: Bean Salad
 image: bean-salad.jpg
  
+tags:
+- "salads"
+ 
 ingredients:
 - "*some* green beans"
 - "*some* water"

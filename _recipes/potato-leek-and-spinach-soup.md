@@ -2,6 +2,9 @@
 layout: recipe
 title: Potato Leek and Spinach Soup
  
+tags:
+- "soups"
+ 
 ingredients:
 - "*2 large* potatoes"
 - "*3* vegetable stock"

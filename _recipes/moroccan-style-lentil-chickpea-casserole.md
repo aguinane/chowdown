@@ -3,6 +3,9 @@ layout: recipe
 title: Moroccan Style Lentil & Chickpea Casserole
 image: moroccan-style-lentil-chickpea-casserole.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*some* Coconut oil"
 - "*some* Onion"

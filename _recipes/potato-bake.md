@@ -3,6 +3,9 @@ layout: recipe
 title: Potato Bake
 image: potato-bake.jpg
  
+tags:
+- "sides"
+ 
 ingredients:
 - "*500g* potatoes"
 - "*4 rashers* bacon"

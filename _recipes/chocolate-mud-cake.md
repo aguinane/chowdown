@@ -2,6 +2,9 @@
 layout: recipe
 title: Chocolate Mud Cake
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*1 cup* butter"
 - "*1 cup* dark chocolate"

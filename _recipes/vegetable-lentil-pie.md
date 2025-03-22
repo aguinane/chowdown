@@ -3,6 +3,9 @@ layout: recipe
 title: Vegetable Lentil Pie
 image: vegetable-lentil-pie.jpg
  
+tags:
+- "mains"
+ 
 ingredients:
 - "*1* onion"
 - "*2 cloves* garlic"

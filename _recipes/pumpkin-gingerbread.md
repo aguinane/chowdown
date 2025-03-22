@@ -3,6 +3,9 @@ layout: recipe
 title: Pumpkin Gingerbread
 image: pumpkin-gingerbread.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*400g* pumpkin"
 - "*2 cups* SR flour"

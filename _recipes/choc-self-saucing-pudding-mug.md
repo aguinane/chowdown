@@ -4,6 +4,9 @@ title: Choc Self Saucing Pudding (Mug)
 image: choc-self-saucing-pudding-mug.jpg
 description: Not as nice as the baked one, but much faster to make.
  
+tags:
+- "desserts"
+ 
 ingredients:
 - "*3 tbsp* Plain Flour"
 - "*2 tbsp* Sugar"

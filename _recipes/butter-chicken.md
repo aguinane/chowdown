@@ -3,6 +3,9 @@ layout: recipe
 title: Butter Chicken
 source: https://www.recipetineats.com/butter-chicken/
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*1 tsp* tumeric"
 - "*2 tsp* garam masala"

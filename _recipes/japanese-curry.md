@@ -4,6 +4,9 @@ title: Japanese Curry
 image: japanese-curry.jpg
 source: https://www.justonecookbook.com/how-to-make-curry-roux/
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*1 cup* butter"
 - "*3/4 cup* plain flour"

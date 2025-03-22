@@ -3,6 +3,9 @@ layout: recipe
 title: Tiger Toast
 image: tiger-toast.jpg
  
+tags:
+- "snacks"
+ 
 ingredients:
 - "*some* butter"
 - "*some* Vegemite"

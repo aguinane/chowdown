@@ -3,6 +3,9 @@ layout: recipe
 title: Vege Thai Curry
 image: vege-thai-curry.jpg
  
+tags:
+- "curries"
+ 
 ingredients:
 - "*some* onion"
 - "*some* capsicum"
