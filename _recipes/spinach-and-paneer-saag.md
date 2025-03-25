@@ -5,6 +5,8 @@ image: spinach-and-paneer-saag.jpg
  
 tags:
 - "curries"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*some* oil"

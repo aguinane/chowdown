@@ -5,6 +5,7 @@ image: teriyaki-eggplant-stir-fry.jpg
  
 tags:
 - "dinner"
+- "veggie"
  
 ingredients:
 - "*2 tbs* olive oil"

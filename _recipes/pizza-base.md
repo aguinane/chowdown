@@ -7,6 +7,7 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
  
 tags:
 - "components"
+- "veggie"
  
 ingredients:
 - "*3 cups* plain flour"
@@ -20,7 +21,7 @@ ingredients:
 directions:
 - Preheat oven to 90 degrees.
 - Mix plain flour, yeast, salt, sugar, and olive oil in a bowl.
-- Add warm milk (or oat milk) and warm water until consistency is right.
+- Add warm milk (or oat milk or water) and warm water until consistency is right.
 - Knead for about 5 mins and then shape into ball.
 - Turn the oven off. Cover dough and let stand in warmed oven for 30 mins.
 - Split into three and roll into bases (makes 3)

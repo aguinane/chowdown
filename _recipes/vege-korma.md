@@ -5,6 +5,7 @@ image: vege-korma.jpg
  
 tags:
 - "curries"
+- "veggie"
  
 ingredients:
 - "*some* cashews"

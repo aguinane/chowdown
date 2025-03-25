@@ -5,6 +5,8 @@ image: toasted-cashew-nut-cauliflower-curry.jpg
  
 tags:
 - "curries"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*1 head* cauliflower"

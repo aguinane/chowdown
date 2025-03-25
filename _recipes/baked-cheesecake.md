@@ -5,6 +5,7 @@ image: baked-cheesecake.jpg
  
 tags:
 - "desserts"
+- "veggie"
  
 ingredients:
 - "*1 packet* milk arrowroot biscuits"

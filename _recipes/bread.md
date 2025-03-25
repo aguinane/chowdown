@@ -7,6 +7,8 @@ source: https://tastesbetterfromscratch.com/bread-recipe/
  
 tags:
 - "components"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*1 7g packet* yeast"

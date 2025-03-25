@@ -6,6 +6,8 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
  
 tags:
 - "components"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*some* tomatoes"

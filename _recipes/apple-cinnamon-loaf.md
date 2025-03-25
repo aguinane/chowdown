@@ -5,6 +5,7 @@ image: apple-cinnamon-loaf.jpg
  
 tags:
 - "desserts"
+- "veggie"
  
 ingredients:
 - "*1tsp* ground cinnamon"

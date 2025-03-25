@@ -5,6 +5,7 @@ image: instant-pot-basic-risotto.jpg
  
 tags:
 - "dinner"
+- "veggie"
  
 ingredients:
 - "*some* roast vegetables"

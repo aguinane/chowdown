@@ -6,6 +6,7 @@ description: Tasty entree and great for babies.
  
 tags:
 - "soups"
+- "veggie"
  
 ingredients:
 - "*2* tomatoes"

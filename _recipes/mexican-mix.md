@@ -6,6 +6,8 @@ description: This is our go to mexican mix. Make into burritos or nachos.
  
 tags:
 - "components"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*1* red onion"

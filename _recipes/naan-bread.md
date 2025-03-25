@@ -6,6 +6,7 @@ description: Not too hard to make to go with Indian
  
 tags:
 - "sides"
+- "veggie"
  
 ingredients:
 - "*2 cup* self-raising flour"

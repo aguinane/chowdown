@@ -4,6 +4,8 @@ title: Vege Tikka Masala
  
 tags:
 - "curries"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*some* sweet potato"

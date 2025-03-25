@@ -5,6 +5,7 @@ image: caponata-pasta.jpg
  
 tags:
 - "dinner"
+- "veggie"
  
 ingredients:
 - "*1* eggplant"

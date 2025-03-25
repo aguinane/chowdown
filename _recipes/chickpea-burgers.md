@@ -6,6 +6,8 @@ description: Awesome veggie patties to add to burgers.
  
 tags:
 - "mains"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*1 can* chickpeas"

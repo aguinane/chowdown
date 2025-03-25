@@ -5,6 +5,7 @@ source: https://www.recipetineats.com/easy-soft-flatbread-yeast/
  
 tags:
 - "components"
+- "veggie"
  
 ingredients:
 - "*3 1/2 tbsp* butter"

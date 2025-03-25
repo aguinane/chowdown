@@ -5,6 +5,8 @@ image: passata.jpg
  
 tags:
 - "components"
+- "veggie"
+- "vegan"
  
 ingredients:
 - "*some* olive oil"

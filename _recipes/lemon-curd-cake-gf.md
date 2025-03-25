@@ -5,6 +5,7 @@ image: lemon-curd-cake-gf.jpg
  
 tags:
 - "desserts"
+- "gluten-free"
  
 ingredients:
 - "*150g* butter"

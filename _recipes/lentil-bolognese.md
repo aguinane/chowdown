@@ -4,6 +4,7 @@ title: Lentil Bolognese
  
 tags:
 - "dinner"
+- "veggie"
  
 ingredients:
 - "*1* minced onion"
