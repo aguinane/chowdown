@@ -26,7 +26,7 @@ directions:
 - Sift plain flour, cocoa powder, and baking powder
 - Stir until combined
 - Optionally, Stir in walnuts
-- Pour into pan and bake for 35-40mins
+- Pour into pan and bake for 20-30mins
 - Sprinkle with icing sugar
 
 ---
