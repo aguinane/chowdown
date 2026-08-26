@@ -12,7 +12,7 @@ ingredients:
 - "*500g* sliced mushrooms"
 - "*3 cloves* garlic"
 - "*some* oregano"
-- "*2 tbs* passata"
+- "*2 tbs* diced tomatoes"
 - "*400g* diced tomatoes"
 - "*2 tsp* balsamic vinegar"
 - "*1/2 cup* water"
@@ -26,7 +26,7 @@ directions:
 - Heat olive oil in frying pan
 - Saute  onion for 3 minutes
 - Add  sliced mushrooms and cook for 5 mins
-- Add  garlic, oregano and passata  and cook until fragnant
+- Add  garlic, oregano and diced tomatoes  and cook until fragnant
 - Add diced tomatoes, balsamic vinegar and water.
 - Bring to the boil and then reduce heat and allow to simmer for 5 mins, until sauce thickens.
 - To make the polenta, place milk and water in saucepan, bring to the boil
